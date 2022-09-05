@@ -1,0 +1,36 @@
+
+           /* .one{
+                border: 1px black solid;
+                 background-color:rgb(199, 178, 222);
+            }*/
+            body{
+                background-color: rgb(20, 20, 20);
+                font-family: 'Times New Roman', Times, serif;
+                color: gray;
+            }
+   
+/*             
+           .on{
+            display: flex;
+            flex-wrap: wrap;
+        
+           } */
+            #continer{
+                
+                display:grid;
+                grid-template-columns:100px 100px 250px 180px 150px;/* auto auto auto repear(5,180px) */
+            
+                 }
+                .x{
+                    border: gray solid 1px; 
+                    /* background-color: rgb(183, 239, 244); */
+                    text-align: center;
+                }
+                .y{
+                    font-weight: bold;
+                    font-size: 16px;
+                }
+                /* .am:hover{
+                    color:white;
+                }
+              */

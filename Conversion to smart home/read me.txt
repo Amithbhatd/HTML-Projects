@@ -4,7 +4,6 @@ bluetooth and voice cammands.
 
 Included:- The Report of the project
 	   Proteus schematic
-	   Working Video
 	   The Android App used for controlling devices
 	   Code for the Arduino
 
